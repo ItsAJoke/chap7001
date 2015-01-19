@@ -1,8 +1,5 @@
 [
 	{
-	 	"module": "dirlist"
-	},
-	{
-		"module": "reader"
+	 	"module": "dirlist.py"
 	}
 ]
