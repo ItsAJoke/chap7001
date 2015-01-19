@@ -1,5 +1,8 @@
 [
 	{
-	 "module": "dirlist"
+	 	"module": "dirlist"
+	},
+	{
+		"module": "read"
 	}
 ]
