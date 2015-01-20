@@ -4,5 +4,8 @@
 	},
 	{
 	  "module": "read"
+	},
+	{
+	  "module": "testprint"
 	}
 ]
